@@ -1,0 +1,21 @@
+.center {
+	text-align: center;
+	width: 75%;
+	margin:auto;
+}
+
+body {
+	background: #831409;
+	font-family: sans-serif;
+}
+
+.description {
+	font-weight: bold;
+	color: #fff;
+}
+
+h1
+{
+	color:#fff;
+
+}
